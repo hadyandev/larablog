@@ -1,0 +1,1 @@
+<br><br><br><p class="text-center">&copy Hadyandev</p>
